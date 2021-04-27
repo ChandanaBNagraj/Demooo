@@ -1,2 +1,3 @@
 this is first
 this is second changebranch
+chan is appended from second branch
