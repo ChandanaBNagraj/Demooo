@@ -1,3 +1,7 @@
 this is first
+chan is appended
 this is second changebranch
+secondbranch
 chan is appended from second branch
+secondbranch
+master
